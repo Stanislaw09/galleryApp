@@ -3,6 +3,7 @@
 ---
 
 Simple online gallery which keeps images with descriptions, built with React and Firebase
+You can see it under https://stanislaw09.github.io/galleryApp/
 
 
 
